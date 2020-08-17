@@ -7,6 +7,8 @@ Simple parser for Fobook.ru. It checks all books on this site and saves their in
   `$ pip install beautifulsoup4`
   - openpyxl
   `$ pip install openpyxl`
+  - lxml 
+  `$ pip install lxml`
 2. Update the proxies.txt file.
 
 ## Requirements
